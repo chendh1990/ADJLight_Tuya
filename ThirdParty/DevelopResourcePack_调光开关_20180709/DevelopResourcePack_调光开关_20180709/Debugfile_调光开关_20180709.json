@@ -1,0 +1,1 @@
+{"Pro_Key":"2JOFKB1AQyTmSde6","Dp_Data":[{"attr":0,"code":"led_switch","desc":"","iconname":"icon-dp_power2","id":1,"mode":"rw","name":"开关","property":{"type":"bool"},"type":"obj"},{"attr":0,"code":"bright_value","desc":"","iconname":"icon-dp_light","id":3,"mode":"rw","name":"亮度","property":{"unit":"","min":25,"max":255,"scale":0,"step":1,"type":"value"},"type":"obj"}]}
